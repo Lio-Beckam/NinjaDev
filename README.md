@@ -1,2 +1,2 @@
 # NinjaDev
-Ninja dev repository.
+Ninja dev repository DevSCNinja.
